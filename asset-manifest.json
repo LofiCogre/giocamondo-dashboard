@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/giocamondo-dashboard/static/css/main.f855e6bc.css",
-    "main.js": "/giocamondo-dashboard/static/js/main.a26cdd87.js",
-    "static/js/453.f2974d39.chunk.js": "/giocamondo-dashboard/static/js/453.f2974d39.chunk.js",
-    "static/media/logo.svg": "/giocamondo-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/giocamondo-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/giocamondo-dashboard/static/js/main.52d967fb.js",
+    "static/js/453.b3b8524d.chunk.js": "/giocamondo-dashboard/static/js/453.b3b8524d.chunk.js",
     "index.html": "/giocamondo-dashboard/index.html",
-    "main.f855e6bc.css.map": "/giocamondo-dashboard/static/css/main.f855e6bc.css.map",
-    "main.a26cdd87.js.map": "/giocamondo-dashboard/static/js/main.a26cdd87.js.map",
-    "453.f2974d39.chunk.js.map": "/giocamondo-dashboard/static/js/453.f2974d39.chunk.js.map"
+    "main.e6c13ad2.css.map": "/giocamondo-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.52d967fb.js.map": "/giocamondo-dashboard/static/js/main.52d967fb.js.map",
+    "453.b3b8524d.chunk.js.map": "/giocamondo-dashboard/static/js/453.b3b8524d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a26cdd87.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52d967fb.js"
   ]
 }
